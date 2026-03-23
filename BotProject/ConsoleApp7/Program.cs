@@ -214,7 +214,7 @@ ${latexFormula}$
         ExcelPackage.License.SetNonCommercialOrganization("<My Noncommercial organization>");
         try
         {
-            var file = new FileInfo(@"C:\Users\isera\OneDrive\Desktop\Кострова2\ConsoleApp7\base.xlsx");
+            var file = new FileInfo(@"C:\Users\isera\OneDrive\Desktop\Другое\Кострова2\ConsoleApp7\base.xlsx");
 
             // Проверяем существование файла
             if (!file.Exists)
