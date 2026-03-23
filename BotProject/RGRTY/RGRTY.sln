@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RGRTY", "RGRTY\RGRTY.pyproj", "{ED30E6CD-31DC-413E-98EE-3CF6F1BCBF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED30E6CD-31DC-413E-98EE-3CF6F1BCBF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED30E6CD-31DC-413E-98EE-3CF6F1BCBF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC99DE0-7F66-4AC2-A663-D14CF9E86313}
+	EndGlobalSection
+EndGlobal

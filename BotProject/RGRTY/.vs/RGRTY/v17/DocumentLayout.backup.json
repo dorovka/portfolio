@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazgul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RGRTY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED30E6CD-31DC-413E-98EE-3CF6F1BCBF4B}|RGRTY\\RGRTY.pyproj|C:\\Users\\Nazgul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RGRTY\\RGRTY\\RGRTY.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED30E6CD-31DC-413E-98EE-3CF6F1BCBF4B}|RGRTY\\RGRTY.pyproj|solutionrelative:RGRTY\\RGRTY.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RGRTY.py",
+              "DocumentMoniker": "C:\\Users\\Nazgul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RGRTY\\RGRTY\\RGRTY.py",
+              "RelativeDocumentMoniker": "RGRTY\\RGRTY.py",
+              "ToolTip": "C:\\Users\\Nazgul\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RGRTY\\RGRTY\\RGRTY.py",
+              "RelativeToolTip": "RGRTY\\RGRTY.py",
+              "ViewState": "AgIAADYBAAAAAAAAAADwv10BAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAXUSURBVEhLxZdLbJxXFcd/32uefsyMH5NYfmGs5mXSJIQg0lIXe0EwCguKFYIEURAFVCRYs0AiG1S1K1ggKoTKJsKiVXcs7DxUUR4KQU4TKZ5CsVMau47teOzxZF7f3HsPi2/c2sOYiWDBX/rrk8537vnfc869V/fC/wMiYtXbAGzbDrmuG6\u002B3PwYE8LXWJa211P/ciYbCQ0ND5yYmJn7T0tJS/2tPVKtVtra2irZtvzE3N3fpxo0b93zfN/V\u002B23DrDds4efIkk5OT9eY9MT8/z\u002BXLl6W7u/sp27Z/qLV\u002BeXZ29t1yudxQ3K43/C9Ip9PxM2fOdBw\u002BfHj02LFj3z9\u002B/PhwNBptqOHUGwCSyeTI6OjoV44cOUKhUCCfz1MqlRoyEolgWRYbGxssLCwwOjoaTqfTTj6fT3uelzDGzK\u002Bvr28qpXb1vOFsdqJSqZDL5Rpya2ur3h2Avr6\u002B9vHx8e6DBw9OnDhx4oVUKtVT79NUOJlMMjg42JADAwPY9kch1tbWuHr1KtPT02QymXalVLdlWV8DhncFfRzhzc1N7t\u002B/35CLi4sYE6ydVCrFqVOncBwHy7KwLIvBwcH2VCrVBYTq4zYV9jyPSCSyJ7eRSCQYHx//kGNjY4yNjZFOp3fF20ZT4Xg8Tnd3d0N2dXXheR6W7ZIrG5a3NIubVdZLBrE9QqHQrlbsxJ77eBurq6usr6/XmwHo6\u002B9nbs1wPbPC5qMSlarCKI1lGVpCDs8e3k\u002B6p5\u002B2tjaWlpZ2jW08nR1IJpP09/c3ZDjeytSN9/lYZ5y2qMvCSo6FlRx/X9pkdn6VX1\u002B7i9vRT0dnZ33Y5sKe5xGPxxuy4AvZfIlkzKMl7CLaYIzGGE1VKx5sPKIsHlNTvw0fPXp01/HcVHhxcZGbN282pNFCvljmlWsZrt\u002B5j9YaURqjVPDVGiNCR2enEwqFdgk37XFvby89PbX9b1lgO/xtpcjDXJnb72f55rPDiAhiDOv5Mn9\u002BZ4n5pSzaaIxWWDqPVbnzxl/e/CmE\u002BpZxen4Ui7e82lRYa40xBsdxKGmbn02/y\u002B33slSrVYxWKK0RpQI/rdAqKLVRCqMNjmxgFW4DDwBnP4lvv1IsFuealnptbY1MJsPq6irX7y7zjw9yNdGglGI0WmpfozFSK7ExiAi2pQADokAVIH/NAb7bVHjfvn2MjIzQ19fHP7MlihU/CG6C4EE/DdpoRAc0RoMY9qcipONbuDwC5YOpQPkuiPlsU\u002BFSqUQul0MpRTZfwa8qjDJBtlrR2RLik0NhTn/c4/QTYU4fCPP0gShjI1G\u002BMx5jJP0eVnUNTDmg/wDEH3gs4Ww26CkSbBfRCqM17VGXbzzl8uOzRX7y5QIvPlfipUmfl79a5cXJAl86\u002BDZt1j3QJdAVUBXQPojZ4zzbgVQqxdDQELFYjETMwxYJemkMn3kiwdlD79DOTTx1B0/dxqvewvP/ilO6BdUPQBeDEm9nbMfADmebCudyOZaWlnj48CHDXTHCbrDStVY82R/DUos1TwGjgoxUBXQ5oCkH2W4zegws5/dNhR3HIRQKYVkWnx7u4smBFCHHQrQm7NYuFWJAV8H4H2VmtoW3J1EBNw3tEz7wy6b7uLW1ldbWVqhN4uvPHOBzI70opTjUK6BUkKmpBgeh2wt2Itg\u002BRkNkEJzuIJiTeED0wK/Onz//ZlPhndBa05uK0tcRw7IsQvYGrPi1TIPFh/aBNRAHTBFix6Ht6ZewQn\u002B6ePFidnl5OTMzM1NqWup6iAjGGLTWwV3R1MppKsEB4a\u002BCFYPEF8FNIeYRiPzxwoULv5uamvrDzMzMOs0u9PH4f35MfO\u002BF5\u002Bl1L0PxDkitx1IFux1Cg4DBb3tu9ls/\u002BMXzr732\u002Bq1KpfLh2IbCtm17rus2fUYUCoVPOLL1OrnpTvJvQeVeUAGnA1o\u002BhW79vG/FDl36wsTZn1\u002B5ciVXP/6/RiQSQUR6ROSSiLwtIkUR8UVkQUReFZFnzp07928XPYB/AYQgOJsAmFQTAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-16T00:37:22.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
