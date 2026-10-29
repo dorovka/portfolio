@@ -54,9 +54,9 @@ def check_flood(user_id):
 
 
 
-ADMIN_ID = [7232950498, 1767179524]
-ADMIN_USERNAME = ["Kiplinggg", "Maths_4ever"]
-TelegramBOTAPITOKEN = "weyt9ssd8f7assfjhs821jfds999"
+ADMIN_ID = [-, -]
+ADMIN_USERNAME = ["-", "-"]
+TelegramBOTAPITOKEN = "-"
 
 def init_stats_file():
     init_stats_db()
